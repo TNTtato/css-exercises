@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgba(216, 97, 81, 0.733);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+#second {
+    color: #00f;
+    font-size: 36px;
+}
+.tird {
+    font-size: 24px;
+}
+#fourth {
+    background-color: rgba(0, 255, 136, 0.74);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
